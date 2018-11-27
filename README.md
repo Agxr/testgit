@@ -1,4 +1,4 @@
-### test-git
+﻿### test-git
 测试git相关操作
 
 ##### git创建本地分支并推送到远程仓库
@@ -19,3 +19,5 @@
   git commit -m ''  
 
   git push origin beta  
+
+##### 革命尚未成功，尔等仍需努力
